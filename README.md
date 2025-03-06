@@ -1,4 +1,4 @@
-# 🖼️ Image Generation from Text using Unsplash API  
+# 🖼️ Image Generation from Text using Unsplash API (https://pavankumar608.github.io/Search_Images/)
 
 ## 📌 Overview  
 This project uses the **Unsplash API** to fetch high-quality images based on **text prompts**. Built with **HTML, CSS, and JavaScript**, it provides a simple and interactive way to search and display images dynamically.  
